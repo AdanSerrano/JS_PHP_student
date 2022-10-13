@@ -37,4 +37,5 @@ console.log( arregloCosas[7][4][1] );
 function numeroJugadores(){
     return 5;
 };
+console.log( numeroJugadores() );
 
