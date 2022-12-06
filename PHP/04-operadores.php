@@ -29,14 +29,7 @@ echo $num1--;
 // concatenar
 echo $num1 . $num2;
 
-// comparar
-echo $num1 == $num2;
 
-// comparar identico
-echo $num1 === $num2;
-
-// comparar diferente
-echo $num1 != $num2;
 
 
 
